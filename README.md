@@ -1,4 +1,5 @@
-```class Main:
+```python
+class Main:
     def __init__(self):
         self.name = ".rar"
         self.projects_in_bound = ["Discord token joiner", "Discord raider", "Discord aio"]
